@@ -50,4 +50,3 @@ void loop() {
     digitalWrite(LED3, LOW);
   }
 }
-LE
