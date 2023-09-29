@@ -1,4 +1,10 @@
 Downloaded from https://wokwi.com/projects/376308528482668545
-
 Simulate this project on https://wokwi.com
 
+===============================================================
+Additional info :
+LED will ON with conting mode.
+1 count, LED RED will ON.
+2 count, LED BLUE will ON. and so on.
+
+while push button 2 was pressed, all 3 LEDs will turned ON which that is the interrupt works.
