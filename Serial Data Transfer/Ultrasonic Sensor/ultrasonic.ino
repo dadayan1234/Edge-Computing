@@ -22,6 +22,10 @@ void loop() {
   int distance = duration * 0.034 / 2;
   
   // Mengirimkan data jarak ke Serial Monitor
+  Serial.print("Durasi: ");
+  Serial.print(",");
+  Serial.print(duration);
+  Serial.print(",");
   Serial.print("Jarak: ");
   Serial.print(distance);
   Serial.println(" cm");
